@@ -1,4 +1,4 @@
-# Hi 👋, I'm Luana Silva ✨
+# Hi 👋, I'm Luana Silva 
 
 **Desenvolvedor Junior Back-End | Java & Python**
 
@@ -66,4 +66,4 @@
 
 ---
 
-🤝 Sempre aberto a colaborações, parcerias e ideias legais.
+🤝 Sempre aberta a colaborações, parcerias e ideias legais.
