@@ -1,16 +1,15 @@
 # Hi 👋, I'm Luana Silva ✨
 
-🚀 Desenvolvedor Junior Back-End | Java & Python 
+**Desenvolvedor Junior Back-End | Java & Python**
 
-📬 São José dos Pinhais/PR - Brasil
-
-
-# Uma jovem entusiasta da tecnologia 💻
-# Onde o limite é definido através das linhas de código 🤖
+**Uma jovem entusiasta da tecnologia 💻**
+**Onde o limite é definido através das linhas de código 🤖**
 
 ---
 
 ## 🌐 Localização
+
+📬 São José dos Pinhais/PR - Brasil
 
 <p align="left">
   <a href="https://github.com/yluanasilva">
