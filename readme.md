@@ -1,8 +1,12 @@
 # Hi 👋, I'm Luana Silva ✨
 
-🚀💻 Desenvolvedor Junior Back-End | Java & Python 
+🚀 Desenvolvedor Junior Back-End | Java & Python 
 
 📬 São José dos Pinhais/PR - Brasil
+
+
+# Uma jovem entusiasta da tecnologia 💻
+# Onde o limite é definido através das linhas de código 🤖
 
 ---
 
@@ -17,13 +21,15 @@
 
 ---
 
-## 🧠 Aprendendo 
+## 🧠 Aprendendo... 
 
+- ☕ Java: Focado em Programação Orientada a Objetos e APIs.
+- 🐍 Python: Focado em automação e análise de dados.
 - ⚡ Otimização de desempenho
 - 🧩 Arquitetura limpa e design de sistema
 - 🔐 APIs seguras e autenticação
 - 🤖 Automação e integrações
-- 📊 Painéis e análises
+
 
 ---
 
@@ -61,6 +67,4 @@
 
 ---
 
-
-
-🤝 Sempre aberta a colaborações, parcerias e ideias legais.
+🤝 Sempre aberto a colaborações, parcerias e ideias legais.
