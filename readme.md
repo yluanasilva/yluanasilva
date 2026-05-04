@@ -1,6 +1,6 @@
 # Hi 👋, I'm Luana Silva
 
-🚀 ** Desenvolvedor Junior Back-End | Java & Python **  
+🚀 *** Desenvolvedor Junior Back-End | Java & Python ***  
 🇧🇷 Brasil
 
 ---
