@@ -1,6 +1,6 @@
 # Hi 👋, I'm Luana Silva 
 
-**Desenvolvedor Junior Back-End | Java & Python**
+**Software Developer Junior Back-End | Java & Python**
 
 **Uma jovem entusiasta da tecnologia 💻**
 **Onde o limite é definido através das linhas de código 🤖**
