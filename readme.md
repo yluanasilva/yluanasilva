@@ -55,13 +55,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yluanasilva&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yluanasilva&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 🤝 Sempre aberta a colaborações, parcerias e ideias legais.
